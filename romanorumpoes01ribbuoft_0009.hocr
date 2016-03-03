@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./romanorumpoes01ribbuoft_0009.png"; bbox 0 0 1942 3204; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 711 1051 1221 1099">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 711 1051 1221 1099">
+     <span class='ocr_line' id='line_1_1' title="bbox 711 1051 1221 1099; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 711 1051 904 1099; x_wconf 81' lang='lat' dir='ltr'><strong>PATRI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 934 1080 940 1087; x_wconf 92' lang='lat'>·</span> <span class='ocrx_word' id='word_1_3' title='bbox 968 1051 1221 1099; x_wconf 85' lang='lat' dir='ltr'><strong>OPTVMO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 383 1379 1639 1454">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 383 1379 1639 1454">
+     <span class='ocr_line' id='line_1_2' title="bbox 383 1379 1639 1454; baseline -0.001 -2"><span class='ocrx_word' id='word_1_4' title='bbox 383 1388 892 1454; x_wconf 79' lang='lat' dir='ltr'>FRIDERICO</span> <span class='ocrx_word' id='word_1_5' title='bbox 932 1418 939 1424; x_wconf 94' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 978 1379 1545 1453; x_wconf 76' lang='lat' dir='ltr'><strong>RITS&#39;OHELIO</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1634 1386 1639 1389; x_wconf 77' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 732 1694 1198 1734">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 732 1694 1198 1734">
+     <span class='ocr_line' id='line_1_3' title="bbox 732 1694 1198 1734; baseline -0.002 -1"><span class='ocrx_word' id='word_1_8' title='bbox 732 1695 935 1734; x_wconf 77' lang='lat' dir='ltr'>AMORIS</span> <span class='ocrx_word' id='word_1_9' title='bbox 961 1714 967 1722; x_wconf 93' lang='lat'>·</span> <span class='ocrx_word' id='word_1_10' title='bbox 992 1694 1198 1733; x_wconf 79' lang='lat' dir='ltr'>CAVSSA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 781 2036 1150 2071">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 781 2036 1150 2071">
+     <span class='ocr_line' id='line_1_4' title="bbox 781 2036 1150 2071; baseline 0 -2"><span class='ocrx_word' id='word_1_11' title='bbox 781 2044 891 2070; x_wconf 66' lang='lat' dir='ltr'>Anno</span> <span class='ocrx_word' id='word_1_12' title='bbox 909 2036 1150 2071; x_wconf 62' lang='lat' dir='ltr'>diffloCbcmi</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
